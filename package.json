@@ -1,0 +1,15 @@
+{
+  "name": "fugue-coding-assignment",
+  "version": "1.0.0",
+  "description": "Shavina Chau assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shavina Chau",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
